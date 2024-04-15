@@ -1,0 +1,49 @@
+20240302	09:15:34	f7c51ab7-7967-4376-9506-9b52e8bcbfd7	Error 	 Not Allowed By CORS
+20240302	19:37:12	eccb7b8d-a23f-4730-941f-47764d2b1778	SyntaxError 	 Expected property name or '}' in JSON at position 4
+20240303	11:37:13	5dff060f-3c48-4b33-b5ae-40ef9cd3417c	TypeError 	 updateEmployee is not iterable
+20240303	11:37:18	4a8641ee-cc64-41a6-ac51-535ad203f68e	TypeError 	 updateEmployee is not iterable
+20240303	11:37:21	b0dd6b49-7ae4-4d3d-8a76-c0ca5106a25a	TypeError 	 updateEmployee is not iterable
+20240303	11:37:27	b6857cbc-f445-4a8b-91d3-80b5de1e3532	TypeError 	 updateEmployee is not iterable
+20240303	11:38:48	38ce1175-c714-4f5c-b672-4b223908f23e	TypeError 	 updateEmployee is not iterable
+20240303	11:39:21	e40f9e91-17f3-4946-9331-062a252e732f	TypeError 	 updateEmployee is not iterable
+20240303	11:40:59	ab4190e6-e299-493c-acf4-bb9fe2741989	TypeError 	 updateEmployee is not iterable
+20240303	11:41:59	311431d0-2f77-47c1-b565-a49e1b93ad7a	TypeError 	 updateEmployee is not iterable
+20240303	11:42:00	632bf68c-c4b8-4c28-8e2c-39a49235b905	TypeError 	 updateEmployee is not iterable
+20240303	11:45:08	9658d18f-3b03-4555-a855-835ad7afdd90	TypeError 	 updateEmployee is not iterable
+20240303	11:45:09	00c386ab-f71a-4396-8f27-a6969b1b2fa3	TypeError 	 updateEmployee is not iterable
+20240303	11:45:10	c68ff54d-9b9d-4eee-a36d-acf6b3a090b5	TypeError 	 updateEmployee is not iterable
+20240303	11:45:10	fd56bf6f-c55d-476c-ad2b-5e1de979effe	TypeError 	 updateEmployee is not iterable
+20240303	11:45:10	29d58cb1-45b9-4601-aa04-403e69c042f1	TypeError 	 updateEmployee is not iterable
+20240303	11:45:11	d5bd62d6-5131-4904-91e6-6a2eae04cf57	TypeError 	 updateEmployee is not iterable
+20240303	11:45:11	ca4e1cc4-7f6f-4db1-91ca-a74a6af20b16	TypeError 	 updateEmployee is not iterable
+20240303	11:48:01	b64284ed-31ce-4a88-bc55-55f7aca14a69	TypeError 	 updateEmployee is not iterable
+20240303	11:48:12	9d3c07c2-0523-4715-810d-c19df8cca19c	TypeError 	 updateEmployee is not iterable
+20240303	11:49:39	0793ad45-12c0-4931-b54c-6b56d0153cfb	TypeError 	 updateEmployee is not iterable
+20240303	11:50:01	aafb2769-4d78-47b1-ab6e-edea7a2c6e8e	TypeError 	 updateEmployee is not iterable
+20240303	11:50:02	e61d8e29-c3f7-4422-8004-557e76ad2bbc	TypeError 	 updateEmployee is not iterable
+20240303	11:50:02	d1cf4822-e841-4d38-b503-58c286a3ca31	TypeError 	 updateEmployee is not iterable
+20240303	11:50:02	5212bd92-6003-4012-a71a-498e0aaa218a	TypeError 	 updateEmployee is not iterable
+20240303	11:50:02	753cb9c9-f2b7-4728-8c4a-b7ffc97b0c4a	TypeError 	 updateEmployee is not iterable
+20240303	11:50:04	a4829652-d889-488f-a012-2e69bf50179a	TypeError 	 updateEmployee is not iterable
+20240303	11:50:04	6e6b4141-1432-430f-a0f6-cf7e20c03ddc	TypeError 	 updateEmployee is not iterable
+20240303	11:50:04	ab4b2182-1cab-4829-8e01-51e8a0c189b4	TypeError 	 updateEmployee is not iterable
+20240303	11:50:05	5a16325c-7276-4f7b-be10-1a46e8ee17dc	TypeError 	 updateEmployee is not iterable
+20240303	11:50:05	4e348703-10ee-4afb-8033-963fc838fe3c	TypeError 	 updateEmployee is not iterable
+20240303	11:52:21	6341b255-ac30-4dca-8306-99c9a551174d	TypeError 	 updateEmployee is not iterable
+20240303	11:53:33	ce737063-f990-43de-a2cc-d9d4b6c5ab0d	TypeError 	 updateEmployee is not iterable
+20240305	15:56:36	cebf3c89-d34b-4aba-b398-286b7cf0def9	TypeError 	 Cannot read properties of undefined (reading 'split')
+20240305	15:56:44	7708a976-e328-4361-b677-a00c2e774d3c	TypeError 	 Cannot read properties of undefined (reading 'split')
+20240305	15:56:53	0a4f038e-2c41-4c62-8478-97a91e3961d8	TypeError 	 Cannot read properties of undefined (reading 'split')
+20240305	20:57:05	dd8e8b58-73e9-4fc3-b2e9-e99f1448abab	TypeError 	 req.cookies is not a function
+20240305	20:59:14	03f1eac4-a5b4-4cce-815a-be5ed545e5db	TypeError 	 req.cookie is not a function
+20240305	21:00:08	fcff3220-35d1-4ed0-9a53-981a03c07087	TypeError 	 req.cookie is not a function
+20240308	17:03:13	8e74f737-a2e9-46f4-8d56-c03b7a237d87	ReferenceError 	 data is not defined
+20240308	17:04:15	65ae0e42-d1da-471f-8203-64f1ce771c1a	ReferenceError 	 data is not defined
+20240308	17:04:39	9a3ba7ea-31f2-48c5-b764-7f27980a931d	ReferenceError 	 data is not defined
+20240308	17:05:14	5b368596-1b96-4321-abe1-e7c542f8b8ab	ReferenceError 	 data is not defined
+20240308	17:06:11	ba61aa81-0a0d-4086-b77f-b5b08c55dcf3	TypeError 	 Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+20240308	17:07:32	657c1202-ad0b-47a1-ba3e-546cedb9e574	TypeError 	 res.body is not a function
